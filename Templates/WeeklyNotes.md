@@ -4,7 +4,6 @@
 #### {{tuesday:ddd-gggg-MM-DD}}
 #### {{wednesday:ddd-gggg-MM-DD}}
 #### {{thursday:ddd-gggg-MM-DD}}
-[[Bioinformatics Meetings]]
 #### {{friday:ddd-gggg-MM-DD}}
 #### {{saturday:ddd-gggg-MM-DD}}
 ---
